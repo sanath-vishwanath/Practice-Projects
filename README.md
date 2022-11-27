@@ -1,2 +1,3 @@
 # Practice-Projects
-Practice projects
+Practice projects using html & css
+
